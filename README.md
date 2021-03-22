@@ -1,4 +1,4 @@
-# Pong (VHDL)
+<p style="text-align:center"># Pong (VHDL)</p>
 Nous avions pour but de re-créer le jeu Pong en VHDL. **/** Our goal was to re-create the Pong game using VHDL.
 
 ## Matériel / Hardware
